@@ -30,6 +30,7 @@ origival table:-
 (104, 'ramesh', 90.0)
 (105, 'dilnawaj', 90.9)
  
+ 
 3) After deleting (101) student information in table:-
 
 (102, 'ambadas', 80.0)
