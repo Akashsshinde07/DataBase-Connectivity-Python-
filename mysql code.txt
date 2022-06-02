@@ -1,0 +1,17 @@
+create table stud_tab(stud_id int, stud_name char(20), stud_marks float);
+
+desc stud_tab;
+
+select * from stud_tab;
+
+insert into stud_tab values(101,'akash', 75.75);
+
+insert into stud_tab values(102,'ambadas', 80);
+
+insert into stud_tab values(103,'pravin', 85.85);
+
+insert into stud_tab values(104,'ramesh', 90);
+
+ 
+
+
