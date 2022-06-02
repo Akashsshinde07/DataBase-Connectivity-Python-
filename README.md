@@ -1,5 +1,5 @@
 # DataBase-Connectivity-Python-
-
+'''
 Operate operation on MYSQL table in Python Tkinter
 
 1)Insert
@@ -54,3 +54,4 @@ origival table:-
 |     104 | ramesh    |         90 |
 |     105 | dilnawaj  |       90.9 |
 +---------+-----------+------------+
+'''
