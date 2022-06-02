@@ -2,8 +2,8 @@
  
 Operate operation on MYSQL table in Python Tkinter
 
-1)Insert.
-2)Update.
+1)Insert
+2)Update
 3)Delete
 
 output:
